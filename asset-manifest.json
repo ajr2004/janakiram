@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/janakiram/static/css/main.9b038820.css",
+    "main.js": "/janakiram/static/js/main.406a485a.js",
+    "static/js/488.9561f9b8.chunk.js": "/janakiram/static/js/488.9561f9b8.chunk.js",
+    "static/media/profile.png": "/janakiram/static/media/profile.92dc424c4cd25ec185d9.png",
+    "index.html": "/janakiram/index.html",
+    "main.9b038820.css.map": "/janakiram/static/css/main.9b038820.css.map",
+    "main.406a485a.js.map": "/janakiram/static/js/main.406a485a.js.map",
+    "488.9561f9b8.chunk.js.map": "/janakiram/static/js/488.9561f9b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b038820.css",
+    "static/js/main.406a485a.js"
+  ]
+}
