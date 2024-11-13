@@ -322,7 +322,7 @@ const Portfolio = () => {
             <div className="bg-gray-700 p-6 rounded-lg">
               <MapPin className="w-8 h-8 text-green-400 mb-4" />
               <h3 className="text-xl font-semibold mb-2">Location</h3>
-              <a href="https://www.google.com/maps?q=17.5531353,82.8611468" className='hover:text-green-400'>
+              <a href="" className='hover:text-green-400'>
               <p>Yelamanchili, Anakapalli district</p>
               <p>Andhra Pradesh, India</p></a>
               
